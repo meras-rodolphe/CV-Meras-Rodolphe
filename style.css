@@ -1,0 +1,87 @@
+h1, h2 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(202, 203, 209);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: Snell Roundhand, cursive;
+}
+
+body{
+    background-color: rgb(8, 8, 8);
+}
+
+.presentation{
+    margin: 25px;
+    font-weight: bold;
+    color: rgb(202, 203, 209);
+    font-size: 24px;
+    font-family: Snell Roundhand, cursive;
+}
+
+.img-fluid{
+    width: 100%;
+    height: auto;
+}
+
+h3{    
+    color: rgb(202, 203, 209);
+    margin: 25px; 
+}
+
+.box{
+    display: inline-table;
+}
+
+.img {
+    height: 150px;
+    width: 150px;
+    margin-inline-start: 25px;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    margin: 30px;
+    
+}
+
+span{
+    color: darkkhaki;
+    font-size: 18px;
+}
+
+footer{
+    margin-block-end: auto;
+    text-align: center;
+    font-size: 18px;
+    color:blanchedalmond;
+}
+
+.creations {
+    height: 200px;
+    width: 450px;
+}
+
+.expli {
+    margin: 25px;
+    font-weight: bold;
+    color: rgb(202, 203, 209);
+    font-size: 18px;
+    font-family: Snell Roundhand, cursive;
+}
+
+.lien {
+  color: bisque;
+  margin: 30px;
+  font-size: 18px;
+}
+
+.wordpress {
+    margin: 30px;
+    height: 600px;
+    width: auto;
+}
+
+
