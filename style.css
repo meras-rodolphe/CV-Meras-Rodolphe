@@ -17,7 +17,7 @@ body{
     font-weight: bold;
     color: rgb(202, 203, 209);
     font-size: 24px;
-    font-family: Snell Roundhand, cursive;
+    font-family: Arial, , sans-serif;
 }
 
 .img-fluid{
@@ -69,7 +69,7 @@ footer{
     font-weight: bold;
     color: rgb(202, 203, 209);
     font-size: 18px;
-    font-family: Snell Roundhand, cursive;
+    font-family: Arial, , sans-serif;
 }
 
 .lien {
