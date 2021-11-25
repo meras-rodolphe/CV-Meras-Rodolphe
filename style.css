@@ -1,4 +1,4 @@
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
     font-style: italic;
     color: rgb(202, 203, 209);
@@ -25,13 +25,8 @@ body{
     height: auto;
 }
 
-h3{    
-    color: rgb(202, 203, 209);
-    margin: 25px; 
-}
-
-.box{
-    display: inline-table;
+.box {
+    margin: 30px;
 }
 
 .img {
@@ -78,10 +73,8 @@ footer{
   font-size: 18px;
 }
 
-.wordpress {
-    margin: 30px;
-    height: 600px;
-    width: auto;
+.nav-link {
+    color: grey;
 }
 
 
